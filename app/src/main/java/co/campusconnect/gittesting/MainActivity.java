@@ -61,6 +61,9 @@ public class MainActivity extends AppCompatActivity {
     {
         int iii=33;
     }
-    private void change2(){ int iV=44;}
+    private void change2()
+    {
+        int iV=44;
+    }
 
 }
