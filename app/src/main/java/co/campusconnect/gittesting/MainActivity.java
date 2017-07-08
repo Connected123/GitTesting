@@ -53,4 +53,8 @@ public class MainActivity extends AppCompatActivity {
     {
         int i=1;
     }
+    private void change()
+    {
+        int ii=2;
+    }
 }
